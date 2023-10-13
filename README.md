@@ -1,4 +1,4 @@
-# Python_For_Data_Analytic_Part3s
+# Python Guide 3
 
 ## Numpy 
 NumPy (Numerical Python) is a Python library that focuses on scientific computing. NumPy has the ability to create N-dimensional array objects, which are similar to lists in Python. The advantage of NumPy arrays compared to lists in Python is that they consume less memory and run time faster.
