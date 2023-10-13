@@ -70,7 +70,7 @@ DataFrame is a 2-dimensional labeled data structure with columns of potentially 
 ![image](https://github.com/vinamaulina/Python-Guide-3/assets/114405502/4456423d-1fb9-4994-81a2-2d93a3012bd3)
 
 #### Slicing Data From Data Frame
-Sometimes generating a simple Series doesn’t accomplish our goals. For more complex operations, Pandas provides DataFrame Slicing using “loc” and “iloc” functions. <br>
+Sometimes generating a simple Series doesn’t accomplish our goals. For more complex operations, Pandas provides DataFrame Slicing using `.loc` and `.iloc` functions. <br>
 ![image](https://github.com/vinamaulina/Python-Guide-3/assets/114405502/61f18995-9d0f-4c3c-af92-0ab620f557b5)
 
 ### Dataset
