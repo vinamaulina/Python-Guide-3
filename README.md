@@ -5,7 +5,6 @@ NumPy (Numerical Python) is a Python library that focuses on scientific computin
 
 ![image](https://github.com/vinamaulina/Python-Guide-3/assets/114405502/43e50056-2261-4ce1-bb66-df39f3c3ac7a)
 
-
 ### Dimension In Arrays
 A dimension in arrays is one on level of array dapth (nested arrays).
 
